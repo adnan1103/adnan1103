@@ -45,7 +45,9 @@
   <img src="https://raw.githubusercontent.com/adnan1103/adnan1103/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </p>
 
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/adnan1103/adnan1103/main/banner.svg" width="100%" alt="Banner"/>
+</p>
 
 
 
