@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Muhammad Adnan Yousaf</h1>
-<h3 align="center">A passionate Developer with 5+ years of experience building responsive, high-performance React/Next.js applications from Portugal</h3>
+<h1 align="left">Hi 👋, I'm Muhammad Adnan Yousaf</h1>
+<h3 align="left">Architecting in the Cloud, but centering a div like it’s 2005.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yourgithubusername&label=Profile%20views&color=0e75b6&style=flat" alt="adnanyousaf" /> </p>
 
@@ -29,43 +29,80 @@
 
 ---
 
-## 🏢 Work Experience
+## 🏢 Technical Skills
 
-### Frontend Developer — Azumo, USA (04/2024 – 05/2025)
-**Projects:** [Byggfix](https://byggfix.se) | [NexusBerry](https://nexusberry.com)
-- Developed scalable multi-vendor e-commerce platforms with Next.js and TypeScript
-- Integrated Stripe for secure payment processing
-- Improved page load times by 35% and delivered platforms with 99% uptime
+<h3 align="left">Languages and Tools:</h3>
+<p align="left">
+<!-- Programming Languages -->
+<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
+<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
+<a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a>
+<a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a>
 
-### Frontend Developer — Ecomin, Sweden (09/2022 – 03/2024)
-**Projects:** [Mialzo](https://mialzo.com) | [Shop at Culture](https://shopatculture.com) | [Green Plank](https://greenplank.eu)
-- Built responsive e-commerce platforms using Next.js and RESTful APIs
-- Developed reusable components optimized for performance and scalability
+<!-- Frontend -->
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
+<a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a>
+<a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a>
+<a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a>
+<a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a>
+<a href="https://nuxtjs.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg" alt="nuxtjs" width="40" height="40"/> </a>
+<a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a>
 
-### Frontend Developer — RootPointers, Pakistan (01/2020 - 05/2022)
-**Projects:** MatchCheet | [EduLife](https://edulife.pk)
-- Developed Admin Panel Dashboards with dynamic, user-friendly interfaces
-- Implemented AJAX calls and APIs for real-time data access
+<!-- Testing -->
+<a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a>
 
-### Frontend Developer — Harperflux Pvt Ltd, Pakistan (01/2019 - 12/2019)
-**Projects:** [Hassan Rice Corporation](https://hasancorporation.com) | [Quetta Gladiators](https://quettagladiators.com)
-- Developed corporate websites using WordPress with optimized performance
+<!-- Styling -->
+<a href="https://mui.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-original.svg" alt="materialui" width="40" height="40"/> </a>
+<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>
+<a href="https://greensock.com/gsap/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/gsap-greensock.svg" alt="gsap" width="40" height="40"/> </a>
+<a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a>
+<a href="https://www.framer.com/motion/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/fraboratory/fraboratory-icon.svg" alt="framer" width="40" height="40"/> </a>
 
----
+<!-- 3D & Graphics -->
+<a href="https://threejs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/threejs-1.svg" alt="threejs" width="40" height="40"/> </a>
+<a href="https://pixijs.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/pixijs.svg" alt="pixijs" width="40" height="40"/> </a>
 
-## 🎓 Education
+<!-- Backend -->
+<a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
+<a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
+<a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/> </a>
+<a href="https://codeigniter.com" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg" alt="codeigniter" width="40" height="40"/> </a>
+<a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a>
 
-| Degree | Institution | Year |
-|--------|-------------|------|
-| MSIS (In Progress) | University of Minho, Portugal | Expected 2027 |
-| MSCS | Superior University, Pakistan | 2020–2022 |
-| BSSE | The University of Lahore, Pakistan | 2014–2018 |
+<!-- Databases -->
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
+<a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
+<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
+<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
+<a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a>
 
----
+<!-- ORMs -->
+<a href="https://www.prisma.io/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/prisma-2.svg" alt="prisma" width="40" height="40"/> </a>
 
-## 📜 Certifications
-- **React.js Training** — Lahore, Pakistan — 2020
-- **Kubernetes Fundamentals** — Coursera — 2024
+<!-- DevOps -->
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
+<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
+<a href="https://nx.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/nrwl/nx/master/images/nx-logo.png" alt="nx" width="40" height="40"/> </a>
+<a href="https://lerna.js.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/lerna-1.svg" alt="lerna" width="40" height="40"/> </a>
+
+<!-- Web Servers -->
+<a href="https://httpd.apache.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original-wordmark.svg" alt="apache" width="40" height="40"/> </a>
+<a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a>
+
+<!-- CMS -->
+<a href="https://wordpress.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original.svg" alt="wordpress" width="40" height="40"/> </a>
+
+<!-- APIs -->
+<a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a>
+<a href="https://www.apollographql.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/apollo-graphql-compact.svg" alt="apollo" width="40" height="40"/> </a>
+
+<!-- Cloud -->
+<a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a>
+
+<!-- Analytics -->
+<a href="https://analytics.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_analytics/google_analytics-icon.svg" alt="google-analytics" width="40" height="40"/> </a>
+</p>
 
 ---
 
