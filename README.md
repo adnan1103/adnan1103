@@ -4,7 +4,9 @@
 
 <h1 align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-  Hi, I'm <img src="https://github.com/adnanyousaf.png" width="50" style="border-radius:50%"/> Muhammad Adnan Yousaf
+  Hi, I'm   <a href="https://github.com/adnanyousaf">
+    <img src="https://github.com/adnanyousaf.png" width="45" style="border-radius:50%"/>
+  </a> Muhammad Adnan Yousaf
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h1>
 
