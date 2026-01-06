@@ -97,15 +97,6 @@
 
 ---
 
-## 💼 Key Achievements
-
-- ✅ Improved page load times by **35%**
-- ✅ Delivered platforms with **99% uptime** for multi-vendor e-commerce systems
-- ✅ **5+ years** of experience in frontend development
-- ✅ Expert in **TypeScript, Redux Toolkit, REST APIs, Stripe payments, and AWS S3**
-- ✅ Strong experience implementing **CI/CD pipelines** and **Jest unit tests**
-
----
-
-
-<p align="center">📍 Braga, Portugal | 🌍 Open to Development roles in Europe</p>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=200&section=header&text=Muhammad%20Adnan%20Yousaf&fontSize=42&fontColor=58a6ff&animation=twinkling&fontAlignY=32&desc=🤖%20AI-Enhanced%20Frontend%20Developer%20|%20React%20|%20Next.js%20|%20TypeScript&descAlignY=55&descSize=16&descColor=8b949e" width="100%"/>
+</p>
