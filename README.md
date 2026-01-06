@@ -22,10 +22,6 @@
 
 </div>
 
-<!-- GitHub Banner -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Muhammad%20Adnan%20Yousaf&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Frontend%20Developer%20|%20React%20|%20Next.js%20|%20TypeScript&descAlignY=52&descSize=18" alt="header"/>
-</p>
 
 <!-- Greeting with Typing Animation -->
 <h1 align="center">
@@ -35,9 +31,8 @@
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=3498DB&center=true&vCenter=true&random=false&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Muhammad+Adnan+Yousaf;Frontend+Developer+from+Portugal+%F0%9F%87%B5%F0%9F%87%B9;5%2B+Years+of+Experience;React+%7C+Next.js+%7C+TypeScript+Expert;Building+Pixel-Perfect+UIs" alt="Typing SVG" />
   </a>
-</h1>
   <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-</h1>
+
 
 <!-- Professional Animation GIF -->
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
