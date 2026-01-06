@@ -8,6 +8,15 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h1>
 
+<div align="center">
+
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px">
+<b>Hi, I'm</b>
+<img src="https://github.com/adnanyousaf.png" width="50" style="border-radius:50%"/>
+<b>Muhammad Adnan Yousaf!</b>
+
+</div>
+
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=440&lines=🇵🇹+Based+in+Portugal;💻+Deploying+Worldwide;☕+Fueled+by+Coffee" alt="Typing SVG" />
 </p>
