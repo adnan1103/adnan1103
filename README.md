@@ -40,7 +40,7 @@
   ⚡ <strong>Always:</strong> Diving into new tech to stay ahead of the curve
 </p>
 
-<!-- Snake Animation -->
+<!-- Snake Animation - Dark Mode -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/adnan1103/adnan1103/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </p>
