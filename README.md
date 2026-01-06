@@ -23,6 +23,53 @@
 </div>
 
 
+## 🙋‍♂️ About Me
+
+```yaml
+🔭 Currently Working On:
+    - 📚 LMS: Curriculum Management System (Building the future of education)
+    - 💼 SaaS: Scalable Software-as-a-Service Application
+
+👯 Looking to Collaborate On:
+    - ⚛️ React/Next.js E-commerce Projects
+    - 🏢 Enterprise Web Applications
+    - 🚀 Open Source Contributions
+
+🤝 Seeking Guidance In:
+    - ☁️ Cloud Architecture (AWS/GCP/Azure)
+    - 🔄 DevOps Best Practices
+    - 🐳 Container Orchestration
+
+🌱 Currently Learning:
+    - ☸️ Kubernetes & Container Orchestration
+    - ☁️ Cloud Hosting & Deployment Strategies
+    - 🎓 MSIS at University of Minho, Portugal (Expected 2027)
+
+💬 Ask Me About:
+    - ⚛️ React & Next.js
+    - 📘 TypeScript
+    - 🔄 Redux Toolkit & State Management
+    - 🎨 Tailwind CSS & UI/UX
+    - 🔌 REST APIs & GraphQL
+    - 💳 Stripe Payment Integration
+
+📫 How to Reach Me:
+    - 📧 Email: adnan.yousaf726@gmail.com
+    - 📱 Phone: +351 920 147 150
+    - 💬 WhatsApp: Available
+
+👨‍💻 Portfolio: Coming Soon 🚀
+
+📄 Resume: Available upon request
+
+📍 Location: Braga, Portugal 🇵🇹
+    - 🌍 Open to Development roles across Europe
+    - 🏠 Remote-friendly
+
+⚡ Fun Facts:
+    - 😄 I think I'm funny (my code doesn't always agree)
+    - 🗣️ I speak 3 languages: English 🇬🇧 | Urdu 🇵🇰 | Punjabi
+    - ☕ Powered by coffee and curiosity
 
 - 🔭 I'm currently working on **LMS** - [Curriculum_Management_System](https://github.com/adnan1103/Curriculum_Management_System) & **SaaS_App** - [SaaS](https://github.com/adnan1103/SaaS-App) 
 
