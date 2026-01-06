@@ -93,6 +93,6 @@
 
 ---
 
-<img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="780" alt="AI Brain"/>
+<img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="1080" height="200" alt="AI Brain"/>
   
 
