@@ -1,41 +1,29 @@
-name: Generate Snake Animation
-
+name: Report remaining open issues
 on:
-  # Runs automatically every 12 hours
   schedule:
-    - cron: "0 */12 * * *"
-  
-  # Allows manual trigger
-  workflow_dispatch:
-  
-  # Runs on push to main branch
-  push:
-    branches:
-      - main
-
+    # Daily at 8:20 UTC
+    - cron: '20 8 * * *'
 jobs:
-  generate:
+  track_pr:
     runs-on: ubuntu-latest
-    timeout-minutes: 10
-    
     steps:
-      # Step 1: Generate snake SVG
-      - name: Generate Snake Animation
-        uses: Platane/snk/svg-only@v3
-        with:
-          github_user_name: adnan1103
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-            dist/github-contribution-grid-snake.gif?color_snake=green&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
+      - run: |
+          numOpenIssues="$(gh api graphql -F owner=$OWNER -F name=$REPO -f query='
+            query($name: String!, $owner: String!) {
+              repository(owner: $owner, name: $name) {
+                issues(states:OPEN){
+                  totalCount
+                }
+              }
+            }
+          ' --jq '.data.repository.issues.totalCount')"
+
+          echo 'NUM_OPEN_ISSUES='$numOpenIssues >> $GITHUB_ENV
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-      
-      # Step 2: Push to output branch
-      - name: Push to Output Branch
-        uses: crazy-max/ghaction-github-pages@v4
-        with:
-          target_branch: output
-          build_dir: dist
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          OWNER: ${{ github.repository_owner }}
+          REPO: ${{ github.event.repository.name }}
+      - run: |
+          gh issue create --title "Issue report" --body "$NUM_OPEN_ISSUES issues remaining" --repo $GITHUB_REPOSITORY
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
