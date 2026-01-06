@@ -22,6 +22,50 @@
 
 </div>
 
+<!-- GitHub Banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Muhammad%20Adnan%20Yousaf&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Frontend%20Developer%20|%20React%20|%20Next.js%20|%20TypeScript&descAlignY=52&descSize=18" alt="header"/>
+</p>
+
+<!-- Greeting with Typing Animation -->
+<h1 align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
+  Hi, I'm <a href="https://github.com/yourusername">Muhammad Adnan Yousaf</a>!
+  <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+</h1>
+
+<!-- Professional Animation GIF -->
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
+<!-- Tagline -->
+<h3 align="center">🤖 Pair programming with AI, debugging with coffee ☕</h3>
+
+<!-- Quick Info Badges -->
+<p align="left">
+  <img src="https://img.shields.io/badge/📍_Braga,_Portugal-🇵🇹-E34F26?style=for-the-badge" alt="Location"/>
+  <img src="https://img.shields.io/badge/💼_5+_Years-Experience-4CAF50?style=for-the-badge" alt="Experience"/>
+  <img src="https://img.shields.io/badge/🌍_Open_to-Europe_Roles-2196F3?style=for-the-badge" alt="Open to Work"/>
+</p>
+
+<!-- Quick Links -->
+<p align="left">
+  🖥️ <strong>Explore My Work:</strong> <a href="#">Portfolio</a> (Coming Soon 🚀)<br>
+  📧 <strong>Contact me @:</strong> <a href="mailto:adnan.yousaf726@gmail.com">adnan.yousaf726@gmail.com</a><br>
+  📱 <strong>Call/WhatsApp:</strong> <a href="https://wa.me/351920147150">+351 920 147 150</a>
+</p>
+
+<!-- Current Activities -->
+<p align="left">
+  🔭 <strong>Currently building:</strong> LMS - Curriculum Management System & SaaS Apps<br>
+  🧠 <strong>Exploring:</strong> AI-enhanced development for smarter user experiences<br>
+  ⚡ <strong>Always:</strong> Diving into new tech to stay ahead of the curve
+</p>
+
+<!-- Snake Animation -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/yourusername/yourusername/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</p>
+
 
 - 🔭 I'm currently working on **LMS** - [Curriculum_Management_System](https://github.com/adnan1103/Curriculum_Management_System) & **SaaS_App** - [SaaS](https://github.com/adnan1103/SaaS-App) 
 
