@@ -25,7 +25,7 @@
 
 <!-- GitHub Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Muhammad%20Adnan%20Yousaf&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Frontend%20Developer%20|%20React%20|%20Next.js%20|%20TypeScript&descAlignY=52&descSize=18" alt="header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Muhammad%20Adnan%20Yousaf&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=%20Developer%20|%20React%20|%20Next.js%20|%20TypeScript&descAlignY=52&descSize=18" alt="header"/>
 </p>
 
 <!-- Greeting with Typing Animation -->
@@ -67,7 +67,7 @@
 
 <!-- Snake Animation -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/yourusername/yourusername/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/adnan1103/adnan1103/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </p>
 
 
