@@ -94,5 +94,5 @@
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=200&section=header&text=Muhammad%20Adnan%20Yousaf&fontSize=42&fontColor=58a6ff&animation=twinkling&fontAlignY=32&desc=🤖%20AI-Enhanced%20Frontend%20Developer%20|%20React%20|%20Next.js%20|%20TypeScript&descAlignY=55&descSize=16&descColor=8b949e" width="100%"/>
+  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="400" alt="Robot"/>
 </p>
