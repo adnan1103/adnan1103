@@ -1,28 +1,3 @@
-<div align="left">
-
-<h1>
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32"/>
-  Hi, I'm
-  <a href="https://github.com/adnanyousaf">
-    <img src="https://github.com/adnanyousaf.png" width="55" style="border-radius:50%"/>
-  </a>
-  Muhammad Adnan Yousaf!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32"/>
-</h1>
-
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=25&duration=2500&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&lines=🇵🇹+Portugal+Based+Developer;💻+Deploying+Worldwide;☕+Coffee+%2B+Code+%3D+Magic;🔥+Building+Awesome+Things" alt="Typing SVG" />
-
-<br><br>
-
-<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"/>
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"/>
-<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"/>
-
-<h4>⚡ Architecting like it's 2050, but Stack Overflowing like it's 2008 ⚡</h4>
-
-</div>
-
-
 <!-- GitHub Banner -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Muhammad%20Adnan%20Yousaf&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=%20Developer%20|%20React%20|%20Next.js%20|%20TypeScript&descAlignY=52&descSize=18" alt="header"/>
