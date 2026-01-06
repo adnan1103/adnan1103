@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Muhammad Adnan Yousaf</h1>
-<h3 align="center">A passionate Frontend Developer with 5+ years of experience building responsive, high-performance React/Next.js applications from Portugal</h3>
+<h3 align="center">A passionate Developer with 5+ years of experience building responsive, high-performance React/Next.js applications from Portugal</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yourgithubusername&label=Profile%20views&color=0e75b6&style=flat" alt="adnanyousaf" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yourgithubusername" alt="adnanyousaf" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adnan1103" alt="adnanyousaf" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/yourtwitterusername" target="blank"><img src="https://img.shields.io/twitter/follow/yourtwitterusername?logo=twitter&style=for-the-badge" alt="twitter" /></a> </p>
 
-- 🔭 I'm currently working on **Byggfix** - [byggfix.se](https://byggfix.se) & **NexusBerry** - [nexusberry.com](https://nexusberry.com)
+- 🔭 I'm currently working on **LMS** - [Curriculum_Management_System](https://github.com/adnan1103/Curriculum_Management_System) & **SaaS_App** - [SaaS](https://github.com/adnan1103/SaaS-App) 
 
 - 👯 I'm looking to collaborate on **React/Next.js E-commerce Projects**
 
@@ -19,11 +19,11 @@
 
 - 📫 How to reach me **adnan.yousaf726@gmail.com** | **+351 920 147 150**
 
-- 👨‍💻 All of my projects are available at [Portfolio](#) *(Add your portfolio link)*
+- 👨‍💻 All of my projects are available at [Portfolio](#) *( Soon )*
 
-- 📄 Know about my experiences [Resume/CV](#) *(Add your resume link)*
+- 📄 Know about my experiences [Resume/CV](https://drive.google.com/file/d/100UmZyYYhV90_aSKLt6gorUf4DgZ3dql/view)
 
-- 📍 Based in **Braga, Portugal** - Open to front-end roles in Europe
+- 📍 Based in **Braga, Portugal** - Open to Development roles in Europe
 
 - ⚡ Fun fact **I think I am funny & I speak 3 languages: English, Urdu, and Punjabi!**
 
@@ -130,11 +130,11 @@
 
 ## 📊 GitHub Stats
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yourgithubusername&show_icons=true&locale=en&layout=compact" alt="adnanyousaf" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=adnan1103&show_icons=true&locale=en&layout=compact" alt="adnanyousaf" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yourgithubusername&show_icons=true&locale=en" alt="adnanyousaf" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adnan1103&show_icons=true&locale=en" alt="adnanyousaf" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yourgithubusername&" alt="adnanyousaf" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adnan1103&" alt="adnanyousaf" /></p>
 
 ---
 
@@ -158,10 +158,5 @@
 
 ---
 
-## ☕ Support
 
-<p><a href="https://www.buymeacoffee.com/yourusername"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="buymeacoffee" /></a></p><br><br>
-
----
-
-<p align="center">📍 Braga, Portugal | 🌍 Open to front-end roles in Europe</p>
+<p align="center">📍 Braga, Portugal | 🌍 Open to Development roles in Europe</p>
