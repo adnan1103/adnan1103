@@ -22,24 +22,6 @@
 
 </div>
 
-## About Me
-
-```javascript
-const adnan = {
-    currentlyWorkingOn: ["LMS - Curriculum Management System", "SaaS Application"],
-    lookingToCollaborate: "React/Next.js E-commerce Projects",
-    seekingHelpWith: ["Cloud Architecture", "DevOps Best Practices"],
-    currentlyLearning: ["Kubernetes", "Cloud Deployment", "MSIS @ University of Minho"],
-    askMeAbout: ["React", "Next.js", "TypeScript", "Redux Toolkit", "Tailwind CSS", "REST APIs", "Stripe"],
-    contact: {
-        email: "adnan.yousaf726@gmail.com",
-        phone: "+351 920 147 150",
-        location: "Braga, Portugal 🇵🇹"
-    },
-    openTo: "Development roles across Europe 🌍",
-    funFact: "I think I'm funny & I speak 3 languages: English, Urdu, Punjabi",
-    portfolio: "Coming Soon 🚀"
-};
 
 - 🔭 I'm currently working on **LMS** - [Curriculum_Management_System](https://github.com/adnan1103/Curriculum_Management_System) & **SaaS_App** - [SaaS](https://github.com/adnan1103/SaaS-App) 
 
