@@ -1,13 +1,18 @@
-<h1 align="left">Hi 👋, I'm Muhammad Adnan Yousaf</h1>
-<h3 align="left">🇵🇹 Based in Portugal | 💻 Deploying worldwide | ☕ Fueled by coffee</h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yourgithubusername&label=Profile%20views&color=0e75b6&style=flat" alt="adnanyousaf" /> </p>
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"> 
 
-[Emoji] [Action] like it's [Future Year], but [Another Action] like it's [Past Year].
+# Hi, I'm Muhammad Adnan Yousaf
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adnan1103" alt="adnanyousaf" /></a> </p>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E97F7&center=true&vCenter=true&width=435&lines=🇵🇹+Based+in+Portugal;💻+Deploying+Worldwide;☕+Fueled+by+Coffee" alt="Typing SVG" />
 
-<p align="left"> <a href="https://twitter.com/yourtwitterusername" target="blank"><img src="https://img.shields.io/twitter/follow/yourtwitterusername?logo=twitter&style=for-the-badge" alt="twitter" /></a> </p>
+<br>
+
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> **Coding like it's 2035, but debugging like it's 1995** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40">
+
+</div>
+
+
 
 - 🔭 I'm currently working on **LMS** - [Curriculum_Management_System](https://github.com/adnan1103/Curriculum_Management_System) & **SaaS_App** - [SaaS](https://github.com/adnan1103/SaaS-App) 
 
