@@ -5,18 +5,6 @@
 
 [Emoji] [Action] like it's [Future Year], but [Another Action] like it's [Past Year].
 
-[Emoji] [Tech Stack] by day, [Funny Activity] by night.
-
-[Emoji] Building [Something Cool], breaking [Something Else].
-
-[Emoji] Professional [Skill], amateur [Funny Thing].
-
-[Emoji] [Number]% [Skill], [Number]% [Humorous Trait].
-
-[Emoji] Fueled by [Beverage] and [Motivation].
-
-[Emoji] [Location] based, [Scope] focused.
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adnan1103" alt="adnanyousaf" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/yourtwitterusername" target="blank"><img src="https://img.shields.io/twitter/follow/yourtwitterusername?logo=twitter&style=for-the-badge" alt="twitter" /></a> </p>
