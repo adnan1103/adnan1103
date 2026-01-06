@@ -117,6 +117,43 @@
 </p>
 
 
+<!-- Gradient Banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=gradient&customColorList=0,2,2,5,30&height=150&section=header&text=Muhammad%20Adnan%20Yousaf&fontSize=40&fontColor=fff&animation=blinking" />
+</p>
+
+<!-- Animated Title -->
+<div align="center">
+  
+  ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&random=false&width=600&height=100&lines=Frontend+Developer+%7C+React+%7C+Next.js;5%2B+Years+Building+Pixel-Perfect+UIs;Based+in+Portugal+%F0%9F%87%B5%F0%9F%87%B9+%7C+Open+to+Europe)
+
+</div>
+
+<!-- Profile Stats Row -->
+<p align="center">
+  <a href="https://github.com/yourusername">
+    <img src="https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub+Followers&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3Dyourusername&labelColor=282c34&color=181717&style=for-the-badge&longCache=true" alt="GitHub Followers">
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile+Views&color=brightgreen&style=for-the-badge" alt="Profile Views"/>
+</p>
+
+<table align="center">
+<tr>
+<td width="50%">
+
+### 🙋‍♂️ About Me
+
+```yaml
+name: Muhammad Adnan Yousaf
+location: Braga, Portugal 🇵🇹
+role: Frontend Developer
+experience: 5+ years
+education: MSIS @ University of Minho
+languages: [English, Urdu, Punjabi]
+open_to: Development roles in Europe 🌍
+
+
+
 - 🔭 I'm currently working on **LMS** - [Curriculum_Management_System](https://github.com/adnan1103/Curriculum_Management_System) & **SaaS_App** - [SaaS](https://github.com/adnan1103/SaaS-App) 
 
 - 👯 I'm looking to collaborate on **React/Next.js E-commerce Projects**
