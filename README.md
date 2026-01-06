@@ -30,7 +30,12 @@
 <!-- Greeting with Typing Animation -->
 <h1 align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
-  Hi, I'm <a href="https://github.com/yourusername">Muhammad Adnan Yousaf</a>!
+<!-- Animated Greeting -->
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=3498DB&center=true&vCenter=true&random=false&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Muhammad+Adnan+Yousaf;Frontend+Developer+from+Portugal+%F0%9F%87%B5%F0%9F%87%B9;5%2B+Years+of+Experience;React+%7C+Next.js+%7C+TypeScript+Expert;Building+Pixel-Perfect+UIs" alt="Typing SVG" />
+  </a>
+</h1>
   <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </h1>
 
