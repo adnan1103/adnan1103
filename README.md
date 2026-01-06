@@ -1,7 +1,5 @@
 <div align="left">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:8B5CF6,100:EC4899&height=150&section=header&text=Welcome%20to%20my%20Profile&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
-
 <h1>
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32"/>
   Hi, I'm
