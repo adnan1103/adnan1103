@@ -67,6 +67,56 @@
 </p>
 
 
+
+<!-- Animated Header -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3498db,100:8e44ad&height=200&section=header&text=Muhammad%20Adnan%20Yousaf&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Frontend%20Developer%20%7C%20React%20%7C%20Next.js%20%7C%20TypeScript&descAlignY=55&descSize=16" />
+</p>
+
+<!-- Animated Greeting -->
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=3498DB&center=true&vCenter=true&random=false&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Muhammad+Adnan+Yousaf;Frontend+Developer+from+Portugal+%F0%9F%87%B5%F0%9F%87%B9;5%2B+Years+of+Experience;React+%7C+Next.js+%7C+TypeScript+Expert;Building+Pixel-Perfect+UIs" alt="Typing SVG" />
+  </a>
+</h1>
+
+<!-- Profile Views Counter -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/yourusername?label=Followers&style=for-the-badge&color=blue" alt="Followers"/>
+  <img src="https://img.shields.io/github/stars/yourusername?label=Stars&style=for-the-badge&color=yellow" alt="Stars"/>
+</p>
+
+<!-- Coding GIF -->
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
+<!-- Tagline -->
+<h3 align="left">🤖 Pair programming with AI, debugging with coffee ☕</h3>
+
+<br>
+
+<!-- Quick Info with Emojis -->
+<p align="left">
+  🌍 <strong>Based in:</strong> Braga, Portugal 🇵🇹<br><br>
+  🖥️ <strong>Explore My Work:</strong> <a href="#">Portfolio</a> (Coming Soon 🚀)<br><br>
+  📧 <strong>Contact me @:</strong> <a href="mailto:adnan.yousaf726@gmail.com">adnan.yousaf726@gmail.com</a><br><br>
+  🔭 <strong>Currently building:</strong> Real-time LMS & SaaS Applications<br><br>
+  🧠 <strong>Exploring:</strong> AI to create smarter user experiences<br><br>
+  ⚡ <strong>Always:</strong> Diving into new tech to stay ahead
+</p>
+
+<br clear="both">
+
+<!-- Snake Animation -->
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yourusername/yourusername/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yourusername/yourusername/output/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/yourusername/yourusername/output/github-contribution-grid-snake.svg" />
+  </picture>
+</p>
+
+
 - 🔭 I'm currently working on **LMS** - [Curriculum_Management_System](https://github.com/adnan1103/Curriculum_Management_System) & **SaaS_App** - [SaaS](https://github.com/adnan1103/SaaS-App) 
 
 - 👯 I'm looking to collaborate on **React/Next.js E-commerce Projects**
