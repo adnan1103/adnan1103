@@ -30,7 +30,21 @@
 - ⚡ Fun fact **I think I am funny & I speak 3 languages: English, Urdu, and Punjabi!**
 
 ---
+<h3 align="center">
+  🌐 Let's Stay Connected 
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px">
+</h3>
 
+<p align="center">
+  <a href="YOUR_LINKEDIN_URL">
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="YOUR_XING_URL">
+    <img src="https://img.shields.io/badge/-XING-006567?style=for-the-badge&logo=xing&logoColor=white"/>
+  </a>
+</p>
+
+---
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
