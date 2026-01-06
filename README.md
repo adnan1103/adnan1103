@@ -22,54 +22,24 @@
 
 </div>
 
+## About Me
 
-## 🙋‍♂️ About Me
-
-```yaml
-🔭 Currently Working On:
-    - 📚 LMS: Curriculum Management System (Building the future of education)
-    - 💼 SaaS: Scalable Software-as-a-Service Application
-
-👯 Looking to Collaborate On:
-    - ⚛️ React/Next.js E-commerce Projects
-    - 🏢 Enterprise Web Applications
-    - 🚀 Open Source Contributions
-
-🤝 Seeking Guidance In:
-    - ☁️ Cloud Architecture (AWS/GCP/Azure)
-    - 🔄 DevOps Best Practices
-    - 🐳 Container Orchestration
-
-🌱 Currently Learning:
-    - ☸️ Kubernetes & Container Orchestration
-    - ☁️ Cloud Hosting & Deployment Strategies
-    - 🎓 MSIS at University of Minho, Portugal (Expected 2027)
-
-💬 Ask Me About:
-    - ⚛️ React & Next.js
-    - 📘 TypeScript
-    - 🔄 Redux Toolkit & State Management
-    - 🎨 Tailwind CSS & UI/UX
-    - 🔌 REST APIs & GraphQL
-    - 💳 Stripe Payment Integration
-
-📫 How to Reach Me:
-    - 📧 Email: adnan.yousaf726@gmail.com
-    - 📱 Phone: +351 920 147 150
-    - 💬 WhatsApp: Available
-
-👨‍💻 Portfolio: Coming Soon 🚀
-
-📄 Resume: Available upon request
-
-📍 Location: Braga, Portugal 🇵🇹
-    - 🌍 Open to Development roles across Europe
-    - 🏠 Remote-friendly
-
-⚡ Fun Facts:
-    - 😄 I think I'm funny (my code doesn't always agree)
-    - 🗣️ I speak 3 languages: English 🇬🇧 | Urdu 🇵🇰 | Punjabi
-    - ☕ Powered by coffee and curiosity
+```javascript
+const adnan = {
+    currentlyWorkingOn: ["LMS - Curriculum Management System", "SaaS Application"],
+    lookingToCollaborate: "React/Next.js E-commerce Projects",
+    seekingHelpWith: ["Cloud Architecture", "DevOps Best Practices"],
+    currentlyLearning: ["Kubernetes", "Cloud Deployment", "MSIS @ University of Minho"],
+    askMeAbout: ["React", "Next.js", "TypeScript", "Redux Toolkit", "Tailwind CSS", "REST APIs", "Stripe"],
+    contact: {
+        email: "adnan.yousaf726@gmail.com",
+        phone: "+351 920 147 150",
+        location: "Braga, Portugal 🇵🇹"
+    },
+    openTo: "Development roles across Europe 🌍",
+    funFact: "I think I'm funny & I speak 3 languages: English, Urdu, Punjabi",
+    portfolio: "Coming Soon 🚀"
+};
 
 - 🔭 I'm currently working on **LMS** - [Curriculum_Management_System](https://github.com/adnan1103/Curriculum_Management_System) & **SaaS_App** - [SaaS](https://github.com/adnan1103/SaaS-App) 
 
