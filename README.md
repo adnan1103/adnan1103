@@ -1,36 +1,4 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff6b6b,100:4ecdc4&height=120&section=header&text=&fontSize=0"/>
-</p>
-
-<h1 align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"/>
-  Hey there! I'm
-  <a href="https://github.com/adnanyousaf">
-    <img src="https://github.com/adnanyousaf.png" width="50" style="border-radius:50%; border: 2px solid #4ecdc4"/>
-  </a>
-  Muhammad Adnan Yousaf
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"/>
-</h1>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=4ECDC4&center=true&vCenter=true&random=false&width=600&lines=🇵🇹+Based+in+Portugal;💻+Deploying+Worldwide;☕+Fueled+by+Coffee;⚡+Turning+Ideas+into+Reality" alt="Typing SVG" />
-</p>
-
-<h3 align="center">
-  <img src="https://media.giphy.com/media/jSKBmKkvo2dPQQtsR1/giphy.gif" width="30"/>
-  Shipping code like it's 2040
-  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="30"/>
-  but debugging like it's 1990
-  <img src="https://media.giphy.com/media/jSKBmKkvo2dPQQtsR1/giphy.gif" width="30"/>
-</h3>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff6b6b,100:4ecdc4&height=100&section=footer"/>
-</p>
-Option 4 - Neon Glow Style
-Markdown
-
-<div align="center">
+<div align="left">
 
 <img src="https://capsule-render.vercel.app/api?type=venom&color=0:8B5CF6,100:EC4899&height=150&section=header&text=Welcome%20to%20my%20Profile&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
 
