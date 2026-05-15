@@ -92,14 +92,23 @@
 <!-- Tagline -->
 <h3 align="center">📊 Analyzing data by day, visualizing insights by night ☕</h3>
 
+
 <!-- Quick Info Badges -->
-<p align="left"> <img src="https://img.shields.io/badge/📍_Your_City,_Country-🌍-E34F26?style=for-the-badge" alt="Location"/> 
+<p align="left">
+  <img src="https://img.shields.io/badge/📍_Braga,_Portugal-🇵🇹-E34F26?style=for-the-badge" alt="Location"/>
 <img src="https://img.shields.io/badge/💼_Junior_Level-Analyst-4CAF50?style=for-the-badge" alt="Experience"/> 
-<img src="https://img.shields.io/badge/🌍_Open_to-Remote_&_Onsite-2196F3?style=for-the-badge" alt="Open to Work"/> </p>
+  <img src="https://img.shields.io/badge/🌍_Open_to-Europe_Roles-2196F3?style=for-the-badge" alt="Open to Work"/>
+</p>
 
 <!-- Quick Links -->
-<p align="left"> 🖥️ <strong>Explore My Work:</strong> <a href="#">Portfolio</a> (Coming Soon 🚀)<br> 📧 <strong>Contact me @:</strong> <a href="mailto:adnan.yousaf726@gmail.com">adnan.yousaf726@gmail.com</a><br> 📱 <strong>Connect on:</strong> 
-<a href="https://linkedin.com/in/yourprofile">LinkedIn</a> </p><!-- Current Activities --><p align="left"> 🔭 <strong>Currently working on:</strong> Building interactive dashboards & exploratory data analysis projects<br> 🧠 <strong>Learning:</strong> Machine Learning fundamentals & Advanced SQL techniques<br> 📈 <strong>Improving:</strong> Statistical analysis and data storytelling skills<br> ⚡ <strong>Fun fact:</strong> I can spend hours cleaning data and actually enjoy it! </p>
+<p align="left">
+  🖥️ <strong>Explore My Work:</strong> <a href="#">Portfolio</a> (Coming Soon 🚀)<br>
+  📧 <strong>Contact me @:</strong> <a href="mailto:adnan.yousaf726@gmail.com">adnan.yousaf726@gmail.com</a><br>
+  📱 <strong>Call/WhatsApp:</strong> <a href="https://wa.me/351920147150">+351 920 147 150</a>
+</p>
+
+<!-- Current Activities -->
+<p align="left"> 🔭 <strong>Currently working on:</strong> Building interactive dashboards & exploratory data analysis projects<br> 🧠 <strong>Learning:</strong> Machine Learning fundamentals & Advanced SQL techniques<br> 📈 <strong>Improving:</strong> Statistical analysis and data storytelling skills<br> ⚡ <strong>Fun fact:</strong> I can spend hours cleaning data and actually enjoy it! </p>
 
 <h3 align="left"> 🌐 Let's Stay Connected <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px"> </h3><p align="left"> <a href="https://www.linkedin.com/in/muhammadadnanyousaf/"> <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="https://github.com/adnan1103"> <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/> </a> <a href="https://www.kaggle.com/adnanweb"> <img src="https://img.shields.io/badge/-Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/> </a> </p>
 
